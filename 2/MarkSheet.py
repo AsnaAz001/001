@@ -1,0 +1,7 @@
+sub1=int(input("Maths;" ))
+sub2=int(input("Islamiat; "))
+sub3=int(input("English; "))
+Total =(sub1+sub2+sub3)      
+print("Total;" ,Total)
+percentage=(Total/300*100)
+print("percentage;",percentage,"%;",)
